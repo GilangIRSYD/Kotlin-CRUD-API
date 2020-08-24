@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Univ</string>
+    <string name="add">Add Student</string>
+    <string name="save_change">Simpan Perubahan</string>
+    <string name="ok">Menarik</string>
+</resources>
